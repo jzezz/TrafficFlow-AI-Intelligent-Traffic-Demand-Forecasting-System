@@ -164,7 +164,8 @@ CatBoostRegressor(
 
 ## Missing Values Analysis
 
-![Missing Values](outputs/missing_values.png)
+<img width="811" height="496" alt="Opera Snapshot_2026-06-06_031721_localhost" src="https://github.com/user-attachments/assets/c022c480-861f-431c-8389-a2ec3ba24bfa" />
+
 
 ### Key Insight
 
@@ -174,7 +175,8 @@ Temperature contained the highest number of missing values and required median-b
 
 ## Traffic Demand Distribution
 
-![Demand Distribution](outputs/demand_distribution.png)
+<img width="935" height="498" alt="distribution" src="https://github.com/user-attachments/assets/06d47ef3-8e42-4ec2-b531-6bebff8187ff" />
+
 
 ### Key Insight
 
@@ -184,7 +186,8 @@ Traffic demand exhibits a highly right-skewed distribution with the majority of 
 
 ## Weather Impact on Traffic Demand
 
-![Weather Impact](outputs/weather_impact.png)
+<img width="1085" height="644" alt="whether impact on traffic" src="https://github.com/user-attachments/assets/b3acbd5f-9ce9-412f-8088-58a3f181c2f9" />
+
 
 ### Key Insight
 
@@ -194,7 +197,8 @@ Weather conditions influence traffic demand, although demand variability remains
 
 ## Road Type Impact on Traffic Demand
 
-![Road Type Impact](outputs/roadtype_impact.png)
+<img width="1085" height="648" alt="road type impact" src="https://github.com/user-attachments/assets/80ca01dd-ab0f-4a5d-877f-baae3692408b" />
+
 
 ### Key Insight
 
@@ -204,7 +208,8 @@ Highways consistently demonstrate higher traffic demand compared to streets and 
 
 ## Average Traffic Demand by Hour
 
-![Hourly Traffic Pattern](outputs/hourly_traffic_pattern.png)
+<img width="895" height="492" alt="avg traffic" src="https://github.com/user-attachments/assets/a8a3f58d-0560-4e67-b660-1c4426b46a39" />
+
 
 ### Key Insight
 
@@ -216,7 +221,8 @@ Traffic demand peaks during late morning and early afternoon periods and decreas
 
 ## Actual vs Predicted
 
-![Actual vs Predicted](outputs/actual_vs_predicted.png)
+<img width="712" height="702" alt="actual vs predicted" src="https://github.com/user-attachments/assets/f3b1b71b-78e9-44bf-a3e5-ca54d4352556" />
+
 
 ### Observation
 
@@ -226,7 +232,8 @@ Predicted values closely follow actual traffic demand values, indicating that th
 
 ## Feature Importance Analysis
 
-![Feature Importance](outputs/feature_importance.png)
+<img width="985" height="649" alt="top 15 important target" src="https://github.com/user-attachments/assets/302f9927-b868-4bf6-9110-dbea334b0de9" />
+
 
 ### Top Predictive Features
 
